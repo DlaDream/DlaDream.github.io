@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Welcome to Yifeng Blog"
+subtitle:   " \"未来可期\""
+date:       2019-09-19 17:00:00
+author:     "Yifeng"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+​     一直想要有一个自己能够写字的地方，记录一下自己在学习过程中遇到的事情，现在`Yifeng Blog`终于开通了，我用了一个下午的时间按照网上的教程一步一步的搭建的，作为一个从没接触过CSS、前端的小白来说，我还有很多要学习的，未来可期。
+
+
+
+`Yifeng Blog`能够顺利开通，我要十分感谢`Huxpro`，是他设计的[这款模板](https://github.com/Huxpro/huxpro.github.io)让我一个小白也可以顺利的搭建自己的博客。
