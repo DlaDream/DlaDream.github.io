@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 296876549@qq.com
 description: "Strive for excellence, not perfection."
 keyword: "Me"
-url: "https://dladream.github.io"          # your host, for absolute URL
+url: "https://dladream.github.io"          # your host, for absolute URL,a
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DlaDream/DlaDream.github.io.git" # you code repository
 
