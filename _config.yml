@@ -14,7 +14,6 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Strive for excellence, not perfection."
 sidebar-avatar: /img/avatar-me.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
