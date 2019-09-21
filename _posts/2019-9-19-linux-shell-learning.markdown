@@ -17,23 +17,6 @@ tags:
 
 
 
-**Content**：
-
-* [登录Linux系统](#%E7%99%BB%E5%BD%95linux%E7%B3%BB%E7%BB%9F)
-* [退出Linux系统](#%E9%80%80%E5%87%BAlinux%E7%B3%BB%E7%BB%9F)
-* [who指令](#who%E6%8C%87%E4%BB%A4)
-* [cat、more、less指令](#catmoreless%E6%8C%87%E4%BB%A4)
-* [ls 指令](#ls-%E6%8C%87%E4%BB%A4)
-* [cp、mv命令](#cpmv%E5%91%BD%E4%BB%A4)
-* [rm 指令](#rm-%E6%8C%87%E4%BB%A4)
-* [pwd 指令](#pwd-%E6%8C%87%E4%BB%A4)
-* [cd 指令](#cd-%E6%8C%87%E4%BB%A4)
-* [mkdir 、rmdir 指令](#mkdir-rmdir-%E6%8C%87%E4%BB%A4)
-* [ln 指令](#ln-%E6%8C%87%E4%BB%A4)
-* [find、grep 指令](#findgrep-%E6%8C%87%E4%BB%A4)
-
-
-
 ### 登录Linux系统
 
 ​    Linux系统有两种账户：一般用户、超级用户；这两种不同的用户有不同的权限，可以根据命令提示符进行判断是那种用户。
