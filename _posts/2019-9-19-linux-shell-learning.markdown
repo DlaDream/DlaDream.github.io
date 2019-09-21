@@ -1,14 +1,14 @@
 ---
-
 layout:     post
-title:      "Linux Learning -shell command"
-subtitle:   " \"享受生活，而不是被生活享受\""
-date:       2019-09-19 21:00
-author:     "Yifeng"
-header-img: "img/linux-shell.jpg"
+title:      Linux-shell
+subtitle:   Linux简单命令学习笔记
+date:       2019-9-20
+author:     DlaDream
+header-img: img/post-bg-kuaidi.jpg
+catalog: true
 tags:
-      - Linux
-
+       -Linux
+       
 ---
 
 ## Linux  基本命令学习
