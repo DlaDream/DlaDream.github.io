@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      LeetCode-最长公共前缀
-subtitle:   LeetCode/
+subtitle:   LeetCode/各种方法
 date:       2019-9-22
 author:     Yifeng
 header-img: img/post-leetcode-easy.jpg
