@@ -108,8 +108,10 @@ using namespace std;
 int reused=10;
 int main(){
 		int reused=1;
-		cout<<reused<<endl;//输出1;
-    	cout<<::reused>>endl;//输出10;
+    	/*输出1*/
+		cout<<reused<<endl;
+    	/*输出10*/
+    	cout<<::reused>>endl;
 		return 0;
 }
  ```
@@ -122,8 +124,10 @@ int main(){
 
 ```c++
 int d;
-int &c=d;//c是d的一个别名
-int &p;//错误，引用必须初始化
+/*c是d的一个别名*/
+int &c=d;
+/*错误，引用必须初始化*/
+int &p;
 ```
 
    引用类型在定义的时候必须被初始化。
