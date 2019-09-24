@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LeetCode-C++学习笔记
+title:      C++学习笔记
 subtitle:   还在更新
 date:       2019-9-23
 author:     Yifeng
