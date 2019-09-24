@@ -108,10 +108,9 @@ using namespace std;
 int reused=10;
 int main(){
 		int reused=1;
-    	/*输出1*/
-		cout<<reused<<endl;
-    	/*输出10*/
-    	cout<<::reused>>endl;
+		cout<<reused<<endl;//输出1
+    	
+    	cout<<::reused>>endl;//输出10
 		return 0;
 }
  ```
@@ -124,10 +123,11 @@ int main(){
 
 ```c++
 int d;
-/*c是d的一个别名*/
-int &c=d;
-/*错误，引用必须初始化*/
-int &p;
+
+int &c=d;//c是d的一个别名
+
+
+int &p;//错误，引用必须初始化
 ```
 
    引用类型在定义的时候必须被初始化。
@@ -222,6 +222,7 @@ extern const int a=10;
 ```c++
 int p=2;
 const int &m=p;//m的值不可以改变，即不能够对m进行任何会改变值的操作
+
 p=3;//这时m的值也变为3，m是p的引用，m会随着p改变
 ```
 
@@ -245,7 +246,9 @@ p=3;//这时m的值也变为3，m是p的引用，m会随着p改变
    int p=1,q=2;
    int * const m&p;
    *m=32;//正确，因为没有修改m内存储的地址
+   
    m=&q;//错误，因为m是一个常量，地址的值不可以被修改
+   
    int * const n;//错误，因为指针是一个常量，所以必须在定义的时候初始化
    ```
 
