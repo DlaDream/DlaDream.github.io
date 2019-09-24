@@ -109,7 +109,7 @@ int reused=10;
 int main(){
 		int reused=1;
 		cout<<reused<<endl;//输出1
-		cout<<::reused>>endl;//输出10
+    	cout<<::reused>>endl;//输出10
 		return 0;
 }
  ```
@@ -219,7 +219,6 @@ extern const int a=10;
 int p=2;
 const int &m=p;//m的值不可以改变，即不能够对m进行任何会改变值的操作
 p=3;//这时m的值也变为3，m是p的引用，m会随着p改变
-
 ```
 
 
