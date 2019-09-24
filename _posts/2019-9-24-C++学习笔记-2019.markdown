@@ -7,7 +7,7 @@ author:     Yifeng
 header-img: img/post-c++.jpg
 catalog: true
 tags:
-     -学习笔记
+     - 学习笔记
 ---
 
 
@@ -108,8 +108,8 @@ using namespace std;
 int reused=10;
 int main(){
 		int reused=1;
-		cout<<reused<<endl;//输出1
-    	cout<<::reused>>endl;//输出10
+		cout<<reused<<endl;//输出1;
+    	cout<<::reused>>endl;//输出10;
 		return 0;
 }
  ```
